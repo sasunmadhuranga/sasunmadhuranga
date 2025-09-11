@@ -12,8 +12,6 @@
 ### 🌱 What I'm Currently Learning
 
 - 📱 React Native for cross-platform mobile apps  
-- 🧠 Generative AI (Gen AI) and AI integration  
-- 📈 Advanced analytics with Google Analytics & SEO strategies
 
 ---
 
