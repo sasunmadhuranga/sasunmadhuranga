@@ -2,18 +2,39 @@
 <h3 align="center">🚀 A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="center">
-  I'm a full-stack developer with a love for building clean, scalable, and user-friendly applications.  
-  I enjoy working across the stack — from designing responsive UIs to writing robust backend logic.  
-  Currently focused on expanding my skills in **React Native** and mobile development.
+  I'm a front-end-focused full-stack developer passionate about building clean, scalable, and user-friendly applications.  
+  I love crafting responsive user interfaces and writing robust backend logic to power them.  
+  Currently, I'm diving deeper into <strong>React Native</strong> to expand my skills in cross-platform mobile development.
 </p>
 
 ---
 
 ### 🌱 What I'm Currently Learning
 
-- 📱 **React Native** for mobile app development  
-- 🧪 **Selenium** for automated testing  
-- 🐍 **Python** for scripting and backend services  
+- 📱 React Native for cross-platform mobile apps  
+- 🧠 Generative AI (Gen AI) and AI integration  
+- 📈 Advanced analytics with Google Analytics & SEO strategies
+
+---
+
+### 🧰 Technical Skills
+
+#### 👨‍💻 Languages  
+JavaScript, Python, PHP, Java, HTML, CSS, SQL
+
+#### 🧱 Frameworks & Libraries  
+React.js, Next.js, Node.js, Express.js, Axios, Tailwind CSS, Rasa
+
+#### 🗃️ Databases  
+MongoDB, MySQL
+
+#### 🔧 Tools & Platforms  
+Git, GitHub, JWT, AWS, Google Analytics, Adobe Premiere Pro, Photoshop, After Effects
+
+#### 🚀 Other Skills  
+RESTful APIs, API Integration, Authentication, Object-Oriented Programming (OOP),  
+UI/UX Design, SEO, Version Control, MVC Architecture, Android Development,  
+Quality Assurance, Artificial Intelligence (AI), Generative AI (Gen AI)
 
 ---
 
@@ -33,29 +54,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-#### 🖥️ Frontend  
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-#### ⚙️ Backend & Database  
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-
-#### 📱 Mobile & Design  
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-
-#### 🔍 Testing  
-<a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -67,8 +65,4 @@
 ### 🧠 Fun Fact
 
 I love solving real-world problems with code and exploring creative ways to bring ideas to life 💡
-
----
-
-> _“First, solve the problem. Then, write the code.”_ – John Johnson
 
