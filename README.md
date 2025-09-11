@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasun Madhuranga</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **React Native**
 
 
 <h3 align="left">Connect with me:</h3>
