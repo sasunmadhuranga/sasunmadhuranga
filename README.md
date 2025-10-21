@@ -49,7 +49,11 @@ Quality Assurance, Artificial Intelligence (AI), Generative AI (Gen AI)
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
+### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasunmadhuranga&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 ---
 
