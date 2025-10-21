@@ -52,7 +52,7 @@ Quality Assurance, Artificial Intelligence (AI), Generative AI (Gen AI)
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasunmadhuranga&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasunmadhuranga&show_icons=true&theme=default&count_private=true" />
 </p>
 
 ---
