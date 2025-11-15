@@ -18,7 +18,7 @@
 ### 🧰 Technical Skills
 
 #### 👨‍💻 Languages  
-JavaScript, Python, PHP, Java, HTML, CSS, SQL
+JavaScript, Python, PHP, Java, HTML, CSS, SQL, TypeScript
 
 #### 🧱 Frameworks & Libraries  
 React.js, Next.js, Node.js, Express.js, Axios, Tailwind CSS, Rasa
