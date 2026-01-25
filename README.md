@@ -24,18 +24,18 @@ React.js, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Rasa
 MongoDB, MySQL
 
 #### 🔧 Tools & Platforms  
-Git, GitHub, GitHub Actions, Postman
-JWT Authentication
-AWS, Azure, IBM Cloud
-Docker, Kubernetes
-Google Analytics
+Git, GitHub, GitHub Actions, Postman,
+JWT Authentication,
+AWS, Azure, IBM Cloud,
+Docker, Kubernetes,
+Google Analytics,
 Adobe Premiere Pro, Photoshop, After Effects
 
 #### 🚀 Other Skills  
-Linux, RESTful APIs, API Integration, Authentication & Authorization
-Object-Oriented Programming (OOP)
-UI/UX Design
-CI/CD Pipelines, Microservices Architecture
+Linux, RESTful APIs, API Integration, Authentication & Authorization,
+Object-Oriented Programming (OOP),
+UI/UX Design,
+CI/CD Pipelines, Microservices Architecture,
 SEO, Android Development
 
 ---
