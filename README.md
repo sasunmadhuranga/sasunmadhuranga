@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sasun Madhuranga</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from Sri Lanka</h3>
-
-<p align="center">
-  I'm a front-end-focused full-stack developer passionate about building clean, scalable, and user-friendly applications.  
-  I love crafting responsive user interfaces and writing robust backend logic to power them.  
-  Currently, I'm diving deeper into <strong>React Native</strong> to expand my skills in cross-platform mobile development.
-</p>
+<h1 align="center">Hi 👋, I'm Sasun Madhuranga</h1> 
+<h3 align="center">🚀 Full-Stack & Mobile Developer | Cloud & DevOps Enthusiast</h3> 
+<p align="center"> I'm an <strong>AI-driven Full-Stack Developer</strong> from Sri Lanka who loves building <strong>scalable, secure, and user-centric applications</strong> across web and mobile platforms. <br/><br/> I specialize in crafting responsive user interfaces, designing robust backend systems, and integrating modern cloud and DevOps practices. <br/><br/> Currently, I'm expanding my expertise in <strong>Cloud Engineering, DevOps, and scalable system architecture</strong>. </p>
 
 ---
 
-### 🌱 What I'm Currently Learning
+🌱 What I'm Currently Learning
 
-- 📱 React Native for cross-platform mobile apps  
+☁️ Cloud Computing & DevOps (AWS, Azure, IBM Cloud)
+
+🚀 CI/CD pipelines, containerization & microservices
 
 ---
 
@@ -21,18 +18,25 @@
 JavaScript, TypeScript, Python, PHP, Java, HTML, CSS, SQL, TypeScript
 
 #### 🧱 Frameworks & Libraries  
-React.js, Next.js, Node.js, Express.js, Axios, Tailwind CSS, Rasa
+React.js, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Rasa
 
 #### 🗃️ Databases  
 MongoDB, MySQL
 
 #### 🔧 Tools & Platforms  
-Git, GitHub, JWT, AWS, Google Analytics, Adobe Premiere Pro, Photoshop, After Effects
+Git, GitHub, GitHub Actions, Postman
+JWT Authentication
+AWS, Azure, IBM Cloud
+Docker, Kubernetes
+Google Analytics
+Adobe Premiere Pro, Photoshop, After Effects
 
 #### 🚀 Other Skills  
-RESTful APIs, API Integration, Authentication, Object-Oriented Programming (OOP),  
-UI/UX Design, SEO, Version Control, MVC Architecture, Android Development,  
-Quality Assurance, Artificial Intelligence (AI), Generative AI (Gen AI)
+Linux, RESTful APIs, API Integration, Authentication & Authorization
+Object-Oriented Programming (OOP)
+UI/UX Design
+CI/CD Pipelines, Microservices Architecture
+SEO, Android Development
 
 ---
 
