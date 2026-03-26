@@ -34,11 +34,9 @@
 ✔️ Automated deployments
 ✔️ Production-like debugging experience
 
-🔹 **Add Demo / Diagram Here**
+🔸 **Architecture Diagram**
 
-```
-📸 Replace with: architecture diagram or gameplay GIF
-```
+<img src="images/1.png" width="600" align="center"/>
 
 ---
 
@@ -52,11 +50,9 @@ S3 → Lambda → DynamoDB → SNS → Athena
 ✔️ Real-time anomaly detection
 ✔️ Serverless & scalable design
 
-🔹 **Add Demo / Diagram Here**
+🔸 **Architecture Diagram**
 
-```
-📊 Replace with: pipeline architecture diagram
-```
+<img src="images/2.png" width="600" align="center"/>
 
 ---
 
@@ -69,6 +65,12 @@ React + FastAPI + Docker + ECS Fargate
 ✔️ AI-powered responses (LLM)
 ✔️ Grammar correction (LanguageTool)
 ✔️ CI/CD automated deployment
+
+🔸 **Architecture Diagram**
+
+<img src="images/3.png" width="600" align="center"/>
+
+---
 
 ---
 
@@ -119,8 +121,12 @@ React + FastAPI + Docker + ECS Fargate
 
 ## 🎥 Project Demos
 
-<p align="center">
-🚧 Add your YouTube demo links here (very important for recruiters)
+<p align="center" padding="15">
+<a href="https://drive.google.com/file/d/1J6ZxjWaSYpL3IrO8ECzK0_fkupN0CQtb/view?usp=sharing"><p>MERN Volunteer Platform (Web + Mobile) 1</p></a>
+<a href="https://drive.google.com/file/d/1DtJnhXVIP3SIMmb_wwvptmGdCPkgVgaX/view?usp=sharing"><p>MERN Volunteer Platform (Web + Mobile) 2</p></a>
+<a href="https://drive.google.com/file/d/1AYbyysbFUhmPMqeTAFs1364yT-vPPIzn/view?usp=sharing"><p>Cloud-Native Match-3 Game (EKS + Kubernetes + CI/CD)/p></a>
+<a href="https://drive.google.com/file/d/18dGopyfJ7VcxNxreOFfKYiP4diuAtbjj/view?usp=sharing"><p>Real-Time Stock Data Pipeline</p></a>
+<a href="https://drive.google.com/file/d/191b1qULHQAGC1c8OizygoQbK93F1qzSt/view?usp=sharing"><p>AI German Learning Chatbot</p></a>
 </p>
 
 ---
