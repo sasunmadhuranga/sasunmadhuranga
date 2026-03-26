@@ -121,12 +121,12 @@ React + FastAPI + Docker + ECS Fargate
 
 ## 🎥 Project Demos
 
-<p align="center" padding="15">
-<a href="https://drive.google.com/file/d/1J6ZxjWaSYpL3IrO8ECzK0_fkupN0CQtb/view?usp=sharing"><p>MERN Volunteer Platform (Web + Mobile) 1</p></a>
-<a href="https://drive.google.com/file/d/1DtJnhXVIP3SIMmb_wwvptmGdCPkgVgaX/view?usp=sharing"><p>MERN Volunteer Platform (Web + Mobile) 2</p></a>
-<a href="https://drive.google.com/file/d/1AYbyysbFUhmPMqeTAFs1364yT-vPPIzn/view?usp=sharing"><p>Cloud-Native Match-3 Game (EKS + Kubernetes + CI/CD)/p></a>
-<a href="https://drive.google.com/file/d/18dGopyfJ7VcxNxreOFfKYiP4diuAtbjj/view?usp=sharing"><p>Real-Time Stock Data Pipeline</p></a>
-<a href="https://drive.google.com/file/d/191b1qULHQAGC1c8OizygoQbK93F1qzSt/view?usp=sharing"><p>AI German Learning Chatbot</p></a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1J6ZxjWaSYpL3IrO8ECzK0_fkupN0CQtb/view?usp=sharing">MERN Volunteer Platform (Web + Mobile) 1</a><br/>
+  <a href="https://drive.google.com/file/d/1DtJnhXVIP3SIMmb_wwvptmGdCPkgVgaX/view?usp=sharing">MERN Volunteer Platform (Web + Mobile) 2</a><br/>
+  <a href="https://drive.google.com/file/d/1AYbyysbFUhmPMqeTAFs1364yT-vPPIzn/view?usp=sharing">Cloud-Native Match-3 Game (EKS + Kubernetes + CI/CD)</a><br/>
+  <a href="https://drive.google.com/file/d/18dGopyfJ7VcxNxreOFfKYiP4diuAtbjj/view?usp=sharing">Real-Time Stock Data Pipeline</a><br/>
+  <a href="https://drive.google.com/file/d/191b1qULHQAGC1c8OizygoQbK93F1qzSt/view?usp=sharing">AI German Learning Chatbot</a>
 </p>
 
 ---
