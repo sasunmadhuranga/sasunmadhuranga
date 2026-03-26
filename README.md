@@ -135,16 +135,16 @@ React + FastAPI + Docker + ECS Fargate
 
 <p align="center">
   <a href="https://linkedin.com/in/sasun-madhuranga">
-    <img src="https://img.shields.io/badge/LinkedIn-Sasun%20Madhuranga-blue?logo=linkedin&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sasun%20Madhuranga-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@wiskam7242">
-    <img src="https://img.shields.io/badge/YouTube-Demos-red?logo=youtube&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/YouTube-Demos-red?logo=youtube&style=for-the-badge" alt="YouTube"/>
   </a>
   <a href="https://www.hackerrank.com/sasunmadhuranga">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&style=for-the-badge" alt="HackerRank"/>
   </a>
-  <a href="https://sasunmadhuranga.vercel.app" target="_blank">
-  [🌐 My Portfolio](https://sasunmadhuranga.vercel.app/)
+  <a href="https://sasunmadhuranga.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?logo=vercel&style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
