@@ -1,80 +1,110 @@
 <h1 align="center">Hi 👋, I'm Sasun Madhuranga</h1>
-<h3 align="center">🚀 Full-Stack Engineer | ☁️ Cloud & DevOps Builder | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Engineer | ☁️ Cloud & DevOps | 🤖 AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Systems;Full-Stack+%2B+DevOps+Engineer;Kubernetes+%7C+AWS+%7C+CI%2FCD;Turning+Ideas+into+Production+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Cloud+Native+Application+Builder;AWS+%7C+Kubernetes+%7C+CI%2FCD;Full-Stack+%2B+DevOps+Engineer;Building+Production-Ready+Systems" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 💡 AI-driven Full-Stack Developer from Sri Lanka 🇱🇰
-⚡ Passionate about **scalable systems, cloud architecture & DevOps**
-🎯 Focused on **real-world production-grade projects**
+⚡ I build **production-grade cloud systems**, not just demos
+☁️ Strong focus on **AWS, Kubernetes, and scalable architectures**
+🎯 Goal: Become a **Cloud/DevOps Engineer**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Cloud-Native Match-3 Game
+---
 
-![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=flat\&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)
+### 🎮 Cloud-Native Match-3 Game (EKS + Kubernetes + CI/CD)
 
-✔️ Multi-AZ deployment using EKS
-✔️ ALB Ingress + Load Balancing
-✔️ Full CI/CD pipeline
-✔️ Real-world debugging (CNI, DNS, IAM)
+🔹 **Architecture Highlights**
+
+* Multi-AZ Kubernetes deployment (Amazon EKS)
+* ALB Ingress with AWS Load Balancer Controller
+* CI/CD pipeline with GitHub Actions → ECR → EKS
+* IAM Roles for Service Accounts (IRSA with OIDC)
+
+🔹 **Impact**
+✔️ High availability & fault tolerance
+✔️ Automated deployments
+✔️ Production-like debugging experience
+
+🔹 **Add Demo / Diagram Here**
+
+```
+📸 Replace with: architecture diagram or gameplay GIF
+```
 
 ---
 
-### 📊 Real-Time Stock Analytics Pipeline
+### 📊 Real-Time Stock Data Pipeline (Serverless AWS)
 
-![AWS](https://img.shields.io/badge/AWS-Serverless-orange?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-Data-blue?logo=python)
+🔹 **Architecture**
+S3 → Lambda → DynamoDB → SNS → Athena
 
-✔️ Event-driven architecture (S3 → Lambda → DynamoDB)
-✔️ Real-time anomaly detection + alerts (SNS)
-✔️ Athena-based analytics + visualization
+🔹 **Key Features**
+✔️ Event-driven pipeline
+✔️ Real-time anomaly detection
+✔️ Serverless & scalable design
+
+🔹 **Add Demo / Diagram Here**
+
+```
+📊 Replace with: pipeline architecture diagram
+```
 
 ---
 
 ### 🤖 AI German Learning Chatbot
 
-![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+🔹 **Stack**
+React + FastAPI + Docker + ECS Fargate
 
-✔️ LLM-powered chatbot (Groq API)
-✔️ ECS Fargate backend deployment
-✔️ CI/CD automation + scalable hosting
+🔹 **Features**
+✔️ AI-powered responses (LLM)
+✔️ Grammar correction (LanguageTool)
+✔️ CI/CD automated deployment
 
 ---
 
-### 🌐 MERN Volunteer Platform
+### 🌐 MERN Volunteer Platform (Web + Mobile)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
-![React](https://img.shields.io/badge/React-Web-blue?logo=react)
-![React Native](https://img.shields.io/badge/Mobile-React_Native-purple)
+🔹 **Highlights**
+✔️ Role-based access system
+✔️ QR-based attendance tracking
+✔️ Certificate generation
 
-✔️ Role-based system (Admin / Volunteer)
-✔️ QR-based attendance system
-✔️ Certificate generation system
+---
+
+## 🏗️ Architecture & DevOps Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" />
+</p>
+
+💡 I specialize in:
+
+* Designing **scalable distributed systems**
+* Building **CI/CD pipelines**
+* Deploying **containerized applications**
+* Troubleshooting **real-world cloud issues**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nextjs,nodejs,express,mongodb,mysql,docker,kubernetes,aws,azure,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nextjs,nodejs,express,mongodb,mysql,docker,kubernetes,aws,azure,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -87,6 +117,14 @@
 
 ---
 
+## 🎥 Project Demos
+
+<p align="center">
+🚧 Add your YouTube demo links here (very important for recruiters)
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -94,7 +132,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sasun%20Madhuranga-blue?logo=linkedin&style=for-the-badge"/>
   </a>
   <a href="https://www.youtube.com/@wiskam7242">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/YouTube-Demos-red?logo=youtube&style=for-the-badge"/>
   </a>
   <a href="https://www.hackerrank.com/sasunmadhuranga">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&style=for-the-badge"/>
@@ -103,9 +141,17 @@
 
 ---
 
-## ⚡ Fun Fact
+## 🏆 Next Goals
 
-💡 I build projects like they’re going to production — not just for demos.
+* AWS Certifications (Solutions Architect / DevOps Engineer)
+* Advanced Kubernetes (Helm, ArgoCD)
+* Large-scale system design
+
+---
+
+## ⚡ Personal Motto
+
+💡 *“Build it like it’s going to production.”*
 
 ---
 
