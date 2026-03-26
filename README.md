@@ -137,6 +137,9 @@ React + FastAPI + Docker + ECS Fargate
   <a href="https://linkedin.com/in/sasun-madhuranga">
     <img src="https://img.shields.io/badge/LinkedIn-Sasun%20Madhuranga-blue?logo=linkedin&style=for-the-badge"/>
   </a>
+  <a href="https://sasunmadhuranga.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
+  </a>
   <a href="https://www.youtube.com/@wiskam7242">
     <img src="https://img.shields.io/badge/YouTube-Demos-red?logo=youtube&style=for-the-badge"/>
   </a>
