@@ -27,12 +27,14 @@ S3 (Frontend) → ALB (Ingress) → EKS (Backend) → MongoDB Atlas
 
 
 🔹 CI/CD Flow
+
 GitHub → Jenkins → Docker → ECR → EKS 
+
 GitHub → Jenkins → S3 (Frontend)
 
 🔹 Key Features
 
-✔️ Full-stack social media platform (auth, posts, likes, follow/unfollow)
+✔️ Full-stack social media platform
 
 ✔️ Kubernetes-based deployment with ALB Ingress
 
@@ -42,17 +44,7 @@ GitHub → Jenkins → S3 (Frontend)
 
 ✔️ Infrastructure as Code using Terraform
 
-✔️ Secure AWS access via IRSA (IAM Roles for Service Accounts)
-
-✔️ Media storage using S3 (multer-S3 integration)
-
-🔸 Highlights
-
-✔️ Zero-downtime deployments using Kubernetes rolling updates
-
-✔️ Multi-AZ architecture with public/private subnets
-
-✔️ Real-world debugging: Jenkins-Docker issues, webhook failures, networking
+✔️ Media storage using S3
 
 🔸 Architecture Diagram
 
