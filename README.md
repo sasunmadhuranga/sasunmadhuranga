@@ -20,6 +20,46 @@
 
 ---
 
+📸 Cloud-Native Instagram Clone (AWS EKS + MERN + CI/CD)
+
+🔹 Architecture
+S3 (Frontend) → ALB (Ingress) → EKS (Backend) → MongoDB Atlas
+
+
+🔹 CI/CD Flow
+GitHub → Jenkins → Docker → ECR → EKS 
+GitHub → Jenkins → S3 (Frontend)
+
+🔹 Key Features
+
+✔️ Full-stack social media platform (auth, posts, likes, follow/unfollow)
+
+✔️ Kubernetes-based deployment with ALB Ingress
+
+✔️ CI/CD automation using Jenkins + GitHub Webhooks
+
+✔️ Dockerized backend with ECR integration
+
+✔️ Infrastructure as Code using Terraform
+
+✔️ Secure AWS access via IRSA (IAM Roles for Service Accounts)
+
+✔️ Media storage using S3 (multer-S3 integration)
+
+🔸 Highlights
+
+✔️ Zero-downtime deployments using Kubernetes rolling updates
+
+✔️ Multi-AZ architecture with public/private subnets
+
+✔️ Real-world debugging: Jenkins-Docker issues, webhook failures, networking
+
+🔸 Architecture Diagram
+
+<img src="images/4.png" width="600" align="center"/>
+
+---
+
 ### 🎮 Cloud-Native Match-3 Game (EKS + Kubernetes + CI/CD)
 
 🔹 **Architecture Highlights**
