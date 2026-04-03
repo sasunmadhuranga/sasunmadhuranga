@@ -20,19 +20,20 @@
 
 ---
 
-📸 Cloud-Native Instagram Clone (AWS EKS + MERN + CI/CD)
+### 📸 Cloud-Native Instagram Clone (AWS EKS + MERN + CI/CD)
 
-🔹 Architecture
+🔹 **Architecture**
+
 S3 (Frontend) → ALB (Ingress) → EKS (Backend) → MongoDB Atlas
 
 
-🔹 CI/CD Flow
+🔹 **CI/CD Flow**
 
 GitHub → Jenkins → Docker → ECR → EKS 
 
 GitHub → Jenkins → S3 (Frontend)
 
-🔹 Key Features
+🔹 **Key Features**
 
 ✔️ Full-stack social media platform
 
@@ -46,7 +47,7 @@ GitHub → Jenkins → S3 (Frontend)
 
 ✔️ Media storage using S3
 
-🔸 Architecture Diagram
+🔸 **Architecture Diagram**
 
 <img src="images/4.png" width="600" align="center"/>
 
@@ -75,6 +76,7 @@ GitHub → Jenkins → S3 (Frontend)
 ### 📊 Real-Time Stock Data Pipeline (Serverless AWS)
 
 🔹 **Architecture**
+
 S3 → Lambda → DynamoDB → SNS → Athena
 
 🔹 **Key Features**
