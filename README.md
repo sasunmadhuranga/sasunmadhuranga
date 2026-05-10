@@ -45,7 +45,7 @@ GitHub → Jenkins → Docker → ECR → ECS
 
 🔸 **Architecture Diagram**
 
-<img src="images/interview-coach.png" width="700" align="center"/>
+<img src="images/5.png" width="700" align="center"/>
 
 ---
 
