@@ -19,6 +19,35 @@
 ## 🚀 Featured Projects
 
 ---
+### 🤖 AI Interview Coach Platform (Next.js + Express.js + AWS ECS Fargate + Terraform + Jenkins CI/CD)
+
+🔹 **Architecture**
+
+Vercel → ALB → ECS Fargate → DynamoDB
+
+🔹 **CI/CD Flow**
+
+GitHub → Jenkins → Docker → ECR → ECS
+
+🔹 **Key Features**
+
+✔️ AI-powered interview simulation platform
+
+✔️ Dynamic interview question generation and evaluation using Groq LLM
+
+✔️ ECS Fargate deployment in private subnets
+
+✔️ CI/CD automation using Jenkins + GitHub Webhooks
+
+✔️ Infrastructure as Code using Terraform
+
+✔️ CloudWatch logging and ECS monitoring
+
+🔸 **Architecture Diagram**
+
+<img src="images/interview-coach.png" width="700" align="center"/>
+
+---
 
 ### 📸 Cloud-Native Instagram Clone (AWS EKS + MERN + CI/CD)
 
@@ -49,7 +78,7 @@ GitHub → Jenkins → S3 (Frontend)
 
 🔸 **Architecture Diagram**
 
-<img src="images/4.png" width="600" align="center"/>
+<img src="images/5.png" width="600" align="center"/>
 
 ---
 
