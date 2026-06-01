@@ -46,6 +46,7 @@ GitHub → Jenkins → Docker → ECR → ECS
 🔸 **Architecture Diagram**
 
 <img src="images/5.png" width="700" align="center"/>
+<img src="images/5.1.png" width="700" align="center"/>
 
 ---
 
@@ -78,7 +79,8 @@ GitHub → Jenkins → S3 (Frontend)
 
 🔸 **Architecture Diagram**
 
-<img src="images/5.png" width="600" align="center"/>
+<img src="images/4.png" width="600" align="center"/>
+<img src="images/4.1.png" width="600" align="center"/>
 
 ---
 
@@ -143,6 +145,13 @@ React + FastAPI + Docker + ECS Fargate
 ✔️ Role-based access system
 ✔️ QR-based attendance tracking
 ✔️ Certificate generation
+
+---
+🔸 **Diagram**
+
+<img src="images/6.png" width="600" align="center"/>
+<img src="images/6.1.png" width="600" align="center"/>
+<img src="images/6.2.png" width="600" align="center"/>
 
 ---
 
