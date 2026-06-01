@@ -79,8 +79,8 @@ GitHub → Jenkins → S3 (Frontend)
 
 🔸 **Architecture Diagram**
 
-<img src="images/4.png" width="600" align="center"/>
-<img src="images/4.1.png" width="600" align="center"/>
+<img src="images/4.png" width="700" align="center"/>
+<img src="images/4.1.png" width="700" align="center"/>
 
 ---
 
@@ -100,7 +100,7 @@ GitHub → Jenkins → S3 (Frontend)
 
 🔸 **Architecture Diagram**
 
-<img src="images/1.png" width="600" align="center"/>
+<img src="images/1.png" width="700" align="center"/>
 
 ---
 
@@ -117,7 +117,7 @@ S3 → Lambda → DynamoDB → SNS → Athena
 
 🔸 **Architecture Diagram**
 
-<img src="images/2.png" width="600" align="center"/>
+<img src="images/2.png" width="700" align="center"/>
 
 ---
 
@@ -133,7 +133,7 @@ React + FastAPI + Docker + ECS Fargate
 
 🔸 **Architecture Diagram**
 
-<img src="images/3.png" width="600" align="center"/>
+<img src="images/3.png" width="700" align="center"/>
 
 ---
 
@@ -149,9 +149,9 @@ React + FastAPI + Docker + ECS Fargate
 ---
 🔸 **Diagram**
 
-<img src="images/6.png" width="600" align="center"/>
-<img src="images/6.1.png" width="600" align="center"/>
-<img src="images/6.2.png" width="600" align="center"/>
+<img src="images/6.png" width="700" align="center"/>
+<img src="images/6.1.png" width="700" align="center"/>
+<img src="images/6.2.png" width="700" align="center"/>
 
 ---
 
